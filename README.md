@@ -19,4 +19,4 @@
 
 ## Демонстрация игры "Просто ли число?"
 
-[[![asciicast](https://asciinema.org/a/3BgPA2ZAmnmdBwHD19CC5WFK8.svg)](https://asciinema.org/a/3BgPA2ZAmnmdBwHD19CC5WFK8)
+[![asciicast](https://asciinema.org/a/3BgPA2ZAmnmdBwHD19CC5WFK8.svg)](https://asciinema.org/a/3BgPA2ZAmnmdBwHD19CC5WFK8)
