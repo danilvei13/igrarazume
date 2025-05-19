@@ -1,7 +1,5 @@
 import readlineSync from 'readline-sync';
-export const getRandomInt = (min, max) => {
-    return Math.floor(Math.random() * (max - min + 1)) + min;
-};
+import getRandomInt from '../utils.js';
 
 const gcd = (a, b) => {
     while (b !== 0) {
@@ -39,4 +37,3 @@ const gcdGame = () => {
 };
 
 export default gcdGame;
-
