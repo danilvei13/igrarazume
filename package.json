@@ -1,9 +1,10 @@
 {
   "name": "@hexlet/code",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "../index.js",
   "type": "module",
   "bin": {
+    "brain-gcd": "bin/brain-gcd.js",
     "brain-games": "bin/brain-games.js",
     "brain-even": "bin/brain-even.js",
     "brain-calc": "bin/brain-calc.js"
